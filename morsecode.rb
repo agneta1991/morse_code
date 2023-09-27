@@ -1,4 +1,5 @@
-morse_code_letters = {
+def decode_char(morse_code)
+  morse_code_to_char = {
     ".-" => "A",
     "-..." => "B",
     "-.-." => "C",
@@ -26,3 +27,5 @@ morse_code_letters = {
     "-.--" => "Y",
     "--.." => "Z"
   }
+  morse_code_to_char[morse_code] || "?"
+end
