@@ -36,3 +36,5 @@ def decode_word(morse_word)
     morse_code_to_words.each do |i|
         word += decode_char(i)
     end
+    word
+end
