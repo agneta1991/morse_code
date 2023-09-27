@@ -4,6 +4,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -34,6 +35,12 @@ This project is built using the following technologies:
     <li>Ruby</li>
   </ul>
 </details>
+
+### Key Features <a name="key-features"></a>
+
+- Decodes morse code letters, words and messages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -81,6 +88,13 @@ LinkedIn: LinkedIn<br>
 GitHub: @balatstar
 Twitter: @balatstar
 LinkedIn: Joyce Cruz
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- front-end GUI to input morse code message
+- front-end GUI to display decoded message
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
