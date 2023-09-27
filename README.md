@@ -77,10 +77,10 @@ GitHub: @agneta1991<br>
 Twitter: @pupienytea<br>
 LinkedIn: LinkedIn<br>
 
-👤 Joyce Cruze
-GitHub: 
-Twitter: 
-LinkedIn:
+👤 Joyce Cruz
+GitHub: @balatstar
+Twitter: @balatstar
+LinkedIn: Joyce Cruz
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
