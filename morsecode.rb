@@ -38,3 +38,12 @@ def decode_word(morse_word)
     end
     word
 end
+
+def decode_sentence(morse_sentence)
+  morse_code_to_sentence = morse_sentence.split('   ')
+  sentence = ''
+  morse_code_to_sentence.each do |j|
+      sentence += decode_word(j) + ' '
+  end
+sentence.chop
+end
